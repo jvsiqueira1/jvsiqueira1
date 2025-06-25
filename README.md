@@ -1,7 +1,7 @@
 # Olá 👋 eu sou o João Vitor! 
 
 ## 🗨 Sobre Mim
-  Desenvolvedor Front-End. Apaixonado por experiência do usuário e performance, busco desenvolver soluções eficientes e intuitivas que agregam valor ao produto. Em constante evolução, estou sempre aprimorando minhas habilidades para criar aplicações modernas e de alto impacto.
+  Desenvolvedor Front-End Júnior com experiência na criação de interfaces web modernas, responsivas e acessíveis. Atuo com tecnologias como HTML, CSS, JavaScript, TypeScript, React.js e Tailwind CSS, além de integração com APIs RESTful e versionamento com Git, GitHub e GitLab. Tenho vivência em projetos reais e práticos, seguindo metodologias ágeis (Scrum) e boas práticas de desenvolvimento. Busco constantemente evoluir como profissional, contribuindo para soluções de impacto enquanto aprofundo meus conhecimentos em tecnologias web e back-end.
   
 ## 💻 Tech Stack
 ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
