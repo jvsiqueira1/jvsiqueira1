@@ -47,12 +47,5 @@ Atualmente, também utilizo **Python** para automações e pipelines de dados qu
 ## O que eu curto construir
 - **APIs e serviços** com Node.js/TypeScript
 - **UIs** com React/Next.js focadas em UX
-- **Integrações** com bancos e serviços externos
+- **Integrações** serviços externos
 - **Automação** quando reduz trabalho manual
-
----
-
-## Contato
-- LinkedIn: https://www.linkedin.com/in/joaovitorsiqueira1/
-- Portfólio: https://portfolio.jvsdev.com.br
-- Email: contato@jvsdev.com.br
