@@ -3,7 +3,7 @@
   <p><strong>DESENVOLVEDOR FULL STACK</strong></p>
   <p>Interfaces bem construídas. Sistemas conectados. Software com propósito.</p>
   <p>
-    <a href="https://portfolio.jvsdev.com.br"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-2563EB?style=for-the-badge" alt="Portfólio" /></a>
+    <a href="https://jvsdev.com.br"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-2563EB?style=for-the-badge" alt="Portfólio" /></a>
     <a href="https://www.linkedin.com/in/joaovitorsiqueira1/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge" alt="LinkedIn" /></a>
     <a href="mailto:contato@jvsdev.com.br"><img src="https://img.shields.io/badge/CONTATO-161B22?style=for-the-badge" alt="Contato por e-mail" /></a>
   </p>
