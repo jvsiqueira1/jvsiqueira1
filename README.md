@@ -49,9 +49,10 @@ Meu trabalho inclui CRMs multi-tenant, plataformas imobiliárias e painéis oper
 
 ### Linguagens no código
 
-<p>
-  <img src="languages.svg" alt="Linguagens mais usadas nos meus repositórios" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="languages-dark.svg" />
+  <img src="languages-light.svg" alt="Linguagens mais usadas nos meus repositórios" />
+</picture>
 
 <p><sub>Calculado a partir de todos os meus repositórios, incluindo os privados. Atualizado diariamente com <a href="https://github.com/jvsiqueira1/gh-stats">gh-stats</a>.</sub></p>
 
