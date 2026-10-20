@@ -10,15 +10,15 @@
   <p><sub>Cuiabá, Mato Grosso · Brasil</sub></p>
 </div>
 
-Sobre
+## Sobre
 
 Sou desenvolvedor Full Stack com foco em TypeScript, React, Next.js e Node.js. Desenvolvo aplicações web, APIs e sistemas de gestão, conectando experiência do usuário, regras de negócio e dados.
 
 Meu trabalho inclui CRMs multi-tenant, plataformas imobiliárias e painéis operacionais. Tenho atenção especial à organização do código, ao controle de acesso e à integração entre serviços. Também utilizo Python para automações e exploro aplicações de inteligência artificial.
 
-Tecnologias
+## Tecnologias
 
-Interfaces
+### Interfaces
 
 <p>
   <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -27,7 +27,7 @@ Interfaces
   <img src="https://img.shields.io/badge/Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
 </p>
 
-APIs e dados
+### APIs e dados
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
@@ -38,7 +38,7 @@ APIs e dados
   <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
 </p>
 
-Qualidade e entrega
+### Qualidade e entrega
 
 <p>
   <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
@@ -47,7 +47,7 @@ Qualidade e entrega
   <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 
-Linguagens no código
+### Linguagens no código
 
 <p>
   <img src="languages.svg" alt="Linguagens mais usadas nos meus repositórios" />
@@ -55,7 +55,7 @@ Linguagens no código
 
 <p><sub>Calculado a partir de todos os meus repositórios, incluindo os privados. Atualizado diariamente com <a href="https://github.com/jvsiqueira1/gh-stats">gh-stats</a>.</sub></p>
 
-Projetos selecionados
+## Projetos selecionados
 
 <table>
   <tr>
