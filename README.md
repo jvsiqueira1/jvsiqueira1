@@ -47,6 +47,14 @@ Qualidade e entrega
   <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 
+Linguagens no código
+
+<p>
+  <img src="languages.svg" alt="Linguagens mais usadas nos meus repositórios" />
+</p>
+
+<p><sub>Calculado a partir de todos os meus repositórios, incluindo os privados. Atualizado diariamente com <a href="https://github.com/jvsiqueira1/gh-stats">gh-stats</a>.</sub></p>
+
 Projetos selecionados
 
 <table>
