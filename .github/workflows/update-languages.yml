@@ -16,4 +16,5 @@ jobs:
       - uses: jvsiqueira1/gh-stats@v1
         with:
           token: ${{ secrets.GH_TOKEN }}
-          lang: "pt"   # pt, en ou es
+          lang: "pt"                      # pt, en ou es
+          themes: "auto, light, dark"     # light e dark para o <picture> do README
