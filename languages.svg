@@ -13,69 +13,69 @@
   </style>
   <rect width="100%" height="100%" rx="8" fill="var(--surface)"/>
   <text x="24" y="32" class="title">Linguagens mais usadas</text>
-  <text x="24" y="54" class="subtitle">93 repositórios · 55,7 MB de código</text>
+  <text x="24" y="54" class="subtitle">93 repositórios · 55,9 MB de código</text>
 
   <g>
-    <title>TypeScript: 40,2 MB · 72,1% · 50 repositórios</title>
+    <title>TypeScript: 40,2 MB · 71,9% · 50 repositórios</title>
     <rect x="0" y="84" width="480" height="28" fill="transparent"/>
     <text x="24" y="98" class="label">TypeScript</text>
     <path d="M120,91 H396 A4,4 0 0 1 400,95 V101 A4,4 0 0 1 396,105 H120 Z" class="bar"/>
-    <text x="408" y="98" class="value">72,1%</text>
+    <text x="408" y="98" class="value">71,9%</text>
   </g>
   <g>
     <title>Python: 6,6 MB · 11,8% · 10 repositórios</title>
     <rect x="0" y="112" width="480" height="28" fill="transparent"/>
     <text x="24" y="126" class="label">Python</text>
-    <path d="M120,119 H161.96731867056113 A4,4 0 0 1 165.96731867056113,123 V129 A4,4 0 0 1 161.96731867056113,133 H120 Z" class="bar"/>
-    <text x="173.96731867056113" y="126" class="value">11,8%</text>
+    <path d="M120,119 H161.92226332667394 A4,4 0 0 1 165.92226332667394,123 V129 A4,4 0 0 1 161.92226332667394,133 H120 Z" class="bar"/>
+    <text x="173.92226332667394" y="126" class="value">11,8%</text>
   </g>
   <g>
-    <title>JavaScript: 4,7 MB · 8,4% · 69 repositórios</title>
+    <title>JavaScript: 4,8 MB · 8,6% · 69 repositórios</title>
     <rect x="0" y="140" width="480" height="28" fill="transparent"/>
     <text x="24" y="154" class="label">JavaScript</text>
-    <path d="M120,147 H148.71066429380875 A4,4 0 0 1 152.71066429380875,151 V157 A4,4 0 0 1 148.71066429380875,161 H120 Z" class="bar"/>
-    <text x="160.71066429380875" y="154" class="value">8,4%</text>
+    <path d="M120,147 H149.28413137736592 A4,4 0 0 1 153.28413137736592,151 V157 A4,4 0 0 1 149.28413137736592,161 H120 Z" class="bar"/>
+    <text x="161.28413137736592" y="154" class="value">8,6%</text>
   </g>
   <g>
     <title>Swift: 1,1 MB · 1,9% · 2 repositórios</title>
     <rect x="0" y="168" width="480" height="28" fill="transparent"/>
     <text x="24" y="182" class="label">Swift</text>
-    <path d="M120,175 H123.46020408706154 A4,4 0 0 1 127.46020408706154,179 V185 A4,4 0 0 1 123.46020408706154,189 H120 Z" class="bar"/>
-    <text x="135.46020408706153" y="182" class="value">1,9%</text>
+    <path d="M120,175 H123.45289189069395 A4,4 0 0 1 127.45289189069395,179 V185 A4,4 0 0 1 123.45289189069395,189 H120 Z" class="bar"/>
+    <text x="135.45289189069393" y="182" class="value">1,9%</text>
   </g>
   <g>
     <title>CSS: 1,0 MB · 1,9% · 60 repositórios</title>
     <rect x="0" y="196" width="480" height="28" fill="transparent"/>
     <text x="24" y="210" class="label">CSS</text>
-    <path d="M120,203 H123.2830178389968 A4,4 0 0 1 127.2830178389968,207 V213 A4,4 0 0 1 123.2830178389968,217 H120 Z" class="bar"/>
-    <text x="135.28301783899678" y="210" class="value">1,9%</text>
+    <path d="M120,203 H123.27587931356695 A4,4 0 0 1 127.27587931356695,207 V213 A4,4 0 0 1 123.27587931356695,217 H120 Z" class="bar"/>
+    <text x="135.27587931356695" y="210" class="value">1,9%</text>
   </g>
   <g>
     <title>HTML: 988,7 KB · 1,7% · 46 repositórios</title>
     <rect x="0" y="224" width="480" height="28" fill="transparent"/>
     <text x="24" y="238" class="label">HTML</text>
-    <path d="M120,231 H122.7328712644779 A4,4 0 0 1 126.7328712644779,235 V241 A4,4 0 0 1 122.7328712644779,245 H120 Z" class="bar"/>
-    <text x="134.7328712644779" y="238" class="value">1,7%</text>
+    <path d="M120,231 H122.7262719709158 A4,4 0 0 1 126.7262719709158,235 V241 A4,4 0 0 1 122.7262719709158,245 H120 Z" class="bar"/>
+    <text x="134.7262719709158" y="238" class="value">1,7%</text>
   </g>
   <g>
     <title>MQL5: 472,1 KB · 0,8% · 1 repositório</title>
     <rect x="0" y="252" width="480" height="28" fill="transparent"/>
     <text x="24" y="266" class="label">MQL5</text>
-    <path d="M120,259 H120 A3.2152690214355255,3.2152690214355255 0 0 1 123.21526902143553,262.2152690214355 V269.7847309785645 A3.2152690214355255,3.2152690214355255 0 0 1 120,273 H120 Z" class="bar"/>
-    <text x="131.21526902143552" y="266" class="value">0,8%</text>
+    <path d="M120,259 H120 A3.2121175421750374,3.2121175421750374 0 0 1 123.21211754217504,262.21211754217506 V269.78788245782494 A3.2121175421750374,3.2121175421750374 0 0 1 120,273 H120 Z" class="bar"/>
+    <text x="131.21211754217504" y="266" class="value">0,8%</text>
   </g>
   <g>
-    <title>PLpgSQL: 292,6 KB · 0,5% · 8 repositórios</title>
+    <title>PLpgSQL: 322,1 KB · 0,6% · 8 repositórios</title>
     <rect x="0" y="280" width="480" height="28" fill="transparent"/>
     <text x="24" y="294" class="label">PLpgSQL</text>
-    <path d="M120,287 H120 A2,2 0 0 1 122,289 V299 A2,2 0 0 1 120,301 H120 Z" class="bar"/>
-    <text x="130" y="294" class="value">0,5%</text>
+    <path d="M120,287 H120 A2.1911742666664518,2.1911742666664518 0 0 1 122.19117426666645,289.19117426666645 V298.80882573333355 A2.1911742666664518,2.1911742666664518 0 0 1 120,301 H120 Z" class="bar"/>
+    <text x="130.19117426666645" y="294" class="value">0,6%</text>
   </g>
   <g>
     <title>Outras: 469,3 KB · 0,8% · MQL4, C#, Dockerfile, Shell, Rust, PowerShell, C, Makefile, Java, Ruby</title>
     <rect x="0" y="308" width="480" height="28" fill="transparent"/>
     <text x="24" y="322" class="label">Outras</text>
-    <path d="M120,315 H120 A3.196029453231822,3.196029453231822 0 0 1 123.19602945323182,318.1960294532318 V325.8039705467682 A3.196029453231822,3.196029453231822 0 0 1 120,329 H120 Z" class="bar"/>
-    <text x="131.1960294532318" y="322" class="value">0,8%</text>
+    <path d="M120,315 H120 A3.192896831833543,3.192896831833543 0 0 1 123.19289683183354,318.19289683183354 V325.80710316816646 A3.192896831833543,3.192896831833543 0 0 1 120,329 H120 Z" class="bar"/>
+    <text x="131.19289683183354" y="322" class="value">0,8%</text>
   </g>
 </svg>
