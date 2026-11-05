@@ -13,14 +13,14 @@
   </style>
   <rect width="100%" height="100%" rx="8" fill="var(--surface)"/>
   <text x="24" y="32" class="title">Linguagens mais usadas</text>
-  <text x="24" y="54" class="subtitle">93 repositórios · 56,9 MB de código</text>
+  <text x="24" y="54" class="subtitle">93 repositórios · 57,0 MB de código</text>
 
   <g>
-    <title>TypeScript: 40,8 MB · 71,8% · 50 repositórios</title>
+    <title>TypeScript: 40,8 MB · 71,6% · 50 repositórios</title>
     <rect x="0" y="84" width="480" height="28" fill="transparent"/>
     <text x="24" y="98" class="label">TypeScript</text>
     <path d="M120,91 H396 A4,4 0 0 1 400,95 V101 A4,4 0 0 1 396,105 H120 Z" class="bar"/>
-    <text x="408" y="98" class="value">71,8%</text>
+    <text x="408" y="98" class="value">71,6%</text>
   </g>
   <g>
     <title>Python: 6,8 MB · 12,0% · 10 repositórios</title>
@@ -72,10 +72,10 @@
     <text x="130.16246442906316" y="294" class="value">0,6%</text>
   </g>
   <g>
-    <title>Outras: 483,3 KB · 0,8% · MQL4, C#, Dockerfile, Shell, Rust, PowerShell, C, Makefile, Java, Ruby</title>
+    <title>Outras: 631,8 KB · 1,1% · C#, MQL4, Dockerfile, Shell, Rust, PowerShell, C, Makefile, Java, Ruby</title>
     <rect x="0" y="308" width="480" height="28" fill="transparent"/>
     <text x="24" y="322" class="label">Outras</text>
-    <path d="M120,315 H120 A3.2367770294973077,3.2367770294973077 0 0 1 123.2367770294973,318.2367770294973 V325.7632229705027 A3.2367770294973077,3.2367770294973077 0 0 1 120,329 H120 Z" class="bar"/>
-    <text x="131.23677702949732" y="322" class="value">0,8%</text>
+    <path d="M120,315 H120.23114781224432 A4,4 0 0 1 124.23114781224432,319 V325 A4,4 0 0 1 120.23114781224432,329 H120 Z" class="bar"/>
+    <text x="132.23114781224433" y="322" class="value">1,1%</text>
   </g>
 </svg>
